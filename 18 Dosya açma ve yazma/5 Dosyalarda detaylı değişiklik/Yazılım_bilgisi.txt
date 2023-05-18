@@ -1,0 +1,5 @@
+iyiyimiyiyimLinux un doÄŸuÅŸu:
+ Siz nasýlsýnýz? Linux aÃ§Ä±k kaynak kodlu yazÄ±lÄ±m dÃ¼nyasÄ±nÄ±n temeli olmuÅŸtur. Buna Ã¶ncÃ¼lÃ¼k eden ise finlandiyalÄ± Linux TorvalstÄ±r
+
+GNU: Richard tarafÄ±ndan yapÄ±lan aÃ§Ä±k kaynak kodlu programlarÄ±n bulunduÄŸu bÃ¼tÃ¼ne verilen addÄ±r.
+AslÄ±Ä±nda linux bu birleÅŸim ile rtaya Ã§kmÄ±ÅŸtÄ±r
